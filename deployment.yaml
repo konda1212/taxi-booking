@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1-nginx
-          image: konda1234/kk:tag12
+          image: konda1234/kk1:tag12
           ports:
             - containerPort: 8080
 ---
